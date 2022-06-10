@@ -1,30 +1,31 @@
-<h1 align="center">Hi there,&nbsp; I'm Lalit! <img src="./media/wave.gif" width="30px"></h1>
+## Hi, there 👋 
 
-<!-- <p style="width: 100%; display: flex; justify-content: space-between;">
-  <img src="http://readme-typing-svg.herokuapp.com?center=true&size=35&duration=2000&color=62F7A1&multiline=true&height=200&width=1000&lines=Just+another+geek+focussed+on+%23automation;and+heavily+infested+with+%23containers." />
-</p> -->
+#### I'm Senior Software Engineer @ [Turbot](https://github.com/turbot/)
+
+#### Now
+- 🔭  I’m currently working on [steampipe](https://steampipe.io/)<br />
+- 📫  Reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/lb1993/)](https://www.linkedin.com/in/lb1993/)
 
 [![](https://komarev.com/ghpvc/?username=lalitturbot&color=green&label=Profile%20Views)](https://github.com/lalitturbot/lalitturbot)
 [![](https://img.shields.io/github/followers/lalitturbot?label=GitHub%20Followers)](https://github.com/lalitturbot)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin--blue?style=flat&logo=Linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/lb1993/)
 
 ---
 
 ## 📊 Github Stats
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/lalitturbot">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitturbot&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+    <a href="https://github.com/lalitturbot"><img alt="Lalit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lalitturbot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
 </p>
-    <a href="https://github.com/lalitturbot"><img alt="Lalit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lalitturbot&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <!-- <a href="https://github.com/lalitturbot"><img alt="Lalit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitturbot&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-<br/>
 <br/>
 
+<p align="left">
 <a href="https://github.com/lalitturbot/github-readme-activity-graph"><img alt="Lalit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lalitturbot&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
+<br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=lalitturbot)
 
