@@ -7,7 +7,7 @@
 - 📫  Reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/lb1993/)](https://www.linkedin.com/in/lb1993/)
 
 [![](https://komarev.com/ghpvc/?username=lalitlab&color=green&label=Profile%20Views)](https://github.com/lalitlab/lalitlab)
-[![](https://img.shields.io/github/followers/lalitlab?label=GitHub%20Followers)](https://github.com/lalitlab)
+[![](https://img.shields.io/github/followers/lalitlab?label=GitHub%20Followers)](https://github.com/LalitLab?tab=followers)
 
 ---
 
