@@ -3,7 +3,8 @@
 #### I'm Technical Architect @ [Infinite Computer Solutions](https://www.infinite.com/)
 
 #### Now
-- 🔭  I’m currently working on [steampipe](https://steampipe.io/)<br />
+- ☸️  Currently working on AWS, [Kubernetes](https://kubernetes.io/), [GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart), [Platform Engineering](https://platformengineering.org/)
+- 🔭  Worked on [steampipe](https://steampipe.io/) open source project.<br />
 - 📫  Reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/lb1993/)](https://www.linkedin.com/in/lb1993/)
 
 [![](https://komarev.com/ghpvc/?username=lalitlab&color=green&label=Profile%20Views)](https://github.com/lalitlab/lalitlab)
