@@ -1,6 +1,7 @@
 ## Hi, there 👋 
 
 #### I'm Technical Architect @ [Infinite Computer Solutions](https://www.infinite.com/)
+Read about me at: https://www.lalitb.in/
 
 #### Now
 - ☸️  Currently working on AWS, [Kubernetes](https://kubernetes.io/), [GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart), [Platform Engineering](https://platformengineering.org/)
