@@ -71,7 +71,7 @@ Read about me at: https://www.lalitb.in/
   <tr>
     <td align="center" width="96">
       <a href="#lalitlab">
-        <img src="./media/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./media/kubernetes.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
